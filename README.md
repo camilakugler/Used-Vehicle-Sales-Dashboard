@@ -1,11 +1,9 @@
 """
-### Sobre este Dashboard
+### About this Dashboard
 
-Este painel interativo permite explorar e analisar anúncios de veículos usados. 
-Você pode visualizar dados detalhados, comparar fabricantes, analisar preços e 
-identificar tendências do mercado automobilístico.
+This interactive dashboard allows users to explore and analyze used vehicle listings. You can view detailed data, compare manufacturers, analyze prices, and identify trends in the automotive market.
 
-**Use os filtros e seleções para personalizar sua análise!**
+**Use the filters and selections below to customize your analysis!**
 
 ---
 """
